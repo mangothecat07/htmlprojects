@@ -14,7 +14,7 @@ Check out the following branches!
   ![image](https://github.com/user-attachments/assets/22895e04-0d16-4036-8837-6326582a4e43)
 
 5. octagram-menu
-   ![image](https://github.com/user-attachments/assets/41b2b311-b2c6-4c2f-8972-3eee63c455b1)
+  ![image](https://github.com/user-attachments/assets/8fdd8867-08cd-4cec-afc2-3a57744bc85e)
 
 6. profile-card-html
    ![image](https://github.com/user-attachments/assets/b8e7dbec-5c07-479b-a944-8027d1b80403)
