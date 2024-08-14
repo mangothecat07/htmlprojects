@@ -29,4 +29,5 @@ Check out the following branches!
   [localhost_52330_tagcloud-v2.html - Opera 2024-08-14 06-47-57.zip](https://github.com/user-attachments/files/16606675/localhost_52330_tagcloud-v2.html.-.Opera.2024-08-14.06-47-57.zip)
   ![image](https://github.com/user-attachments/assets/bd123478-8c66-4e86-970f-183b0afcbd9e)
 
-  
+10. spotify player
+    ![image](https://github.com/user-attachments/assets/7e4f7125-ac95-4638-86fc-561095c5b47e)
