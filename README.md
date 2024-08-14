@@ -17,7 +17,7 @@ Check out the following branches!
   ![image](https://github.com/user-attachments/assets/8fdd8867-08cd-4cec-afc2-3a57744bc85e)
 
 6. profile-card-html
-   ![image](https://github.com/user-attachments/assets/b8e7dbec-5c07-479b-a944-8027d1b80403)
+   ![image](https://github.com/user-attachments/assets/0e404581-7ec8-4bd7-abfe-51a97b07e3a1)
 
 7. responsive-image-carousel
    ![image](https://github.com/user-attachments/assets/508f8593-e106-40cc-b476-d83a9b264fec)
