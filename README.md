@@ -31,3 +31,5 @@ Check out the following branches!
 
 10. spotify player
     ![image](https://github.com/user-attachments/assets/7e4f7125-ac95-4638-86fc-561095c5b47e)
+
+11. panda-login-page
